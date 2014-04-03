@@ -1,0 +1,10 @@
+{
+	"name": "BeanstalkTestExternalModule",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+	},
+	"engines": {
+		"node": "v0.10.26"
+	}
+}
